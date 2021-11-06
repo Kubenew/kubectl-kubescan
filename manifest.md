@@ -26,6 +26,7 @@ spec:
     uri: https://github.com/Kubenew/kubectl-kubescan/archive/v0.0.3.zip
     # 'sha256' is the sha256sum of the url above
     sha256: d7079b79bf4e10e55ded435a2e862efe310e019b6c306a8ff04191238ef4b2b4
+               7a1145abb6aeb6aab87c39f8ba98b17c32567282
     # 'files' lists which files should be extracted out from downloaded archive
     files:
     - from: "kubectl-restart-*/kubescan.sh"

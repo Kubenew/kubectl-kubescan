@@ -9,4 +9,4 @@ cd kubectl-kubecan
 
 Your clusters kubeconfig either in its default location ($HOME/.kube/config) or exported (KUBECONFIG=/path/to/kubeconfig)
 Usage
-$ bash kubecan $ ./kubescan
+$ bash kubecan $ ./kubescan.sh

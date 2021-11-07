@@ -85,7 +85,7 @@ get_pod_errors()
 {
   for NAMESPACE in ${namespaces[@]}
   do
-    info "Scanning pod logs, Namespace: ${red}$NAMESPACE${normal}"
+    info "SCANNING FOR ERRORED PODS AND CONTAINERS logs, Namespace: ${turquoise}$NAMESPACE${green}"
     printf '\n'
     while IFS=' ' read -r POD CONTAINERS
     do

@@ -1,5 +1,6 @@
 #!/bin/bash
 #define the variables
+kubectl version --short | awk -Fv '/Server Version: / {print $3}';kubectl config view;kubectl get all
 KUBE_LOC=~/.kube/config
 #define variables
 KUBE=$(which kubectl)

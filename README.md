@@ -2,7 +2,7 @@
 Scan for errored pods  and containers
 Pre-requisites
 kubectl installed.
-Install 
+Install:
 
 git clone https://github.com/Kubenew/kubectl-kubescan.git
 

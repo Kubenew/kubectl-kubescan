@@ -1,4 +1,4 @@
-# kubectl-scan
+# kubectl-kubescan
 Scan for errored pods  and containers
 Pre-requisites
 kubectl installed.

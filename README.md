@@ -1,5 +1,6 @@
 # kubectl-kubescan
-Scan for errored pods  and containers
+Kubescan is a  multi-cloud solution,scanning for errored pods  and containers.
+Tested on Azure, Google Cloud Platform (GCP), IBM Cloud.
 Pre-requisites
 kubectl installed.
 Install:

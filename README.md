@@ -1,5 +1,5 @@
 # kubectl-kubescan
-Kubescan is a  multi-cloud solution,scanning for unhealthy nodes,pods and containers in the kubernetes cluster, potentially with visibility for security issues,
+Kubescan is a  multi-cloud solution,scanning for unhealthy nodes, pods and containers with ransomware immutability or anomaly detection in the kubernetes cluster, potentially with visibility for security issues,
 simplifying kubernetes troubleshooting.
 Tested on Azure, Google Cloud Platform (GCP), IBM  cloud.
 
